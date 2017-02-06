@@ -1,0 +1,61 @@
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/UnityEngine.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/UnityEditor.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/Mono.Cecil.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/Unity.DataContract.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/obj/Debug/Assembly-CSharp.dll
+/Users/JamesMcadam/Desktop/GameJam2017/GameJam/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/JamesMcadam/Desktop/GameJam/obj/Debug/Assembly-CSharp.dll
+/Users/JamesMcadam/Desktop/GameJam/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/UnityEngine.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/UnityEditor.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/Mono.Cecil.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/Unity.DataContract.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/JamesMcadam/Desktop/GameJam/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/obj/Debug/Assembly-CSharp.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/UnityEngine.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/UnityEditor.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/Mono.Cecil.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/Unity.DataContract.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/JamesMcadam/Desktop/BAT Bat bat GAME Game game Final Jam Build/Temp/bin/Debug/Assembly-CSharp.dll

@@ -44,9 +44,11 @@ public class VisibilityTronStyleGrass : MonoBehaviour {
 				mats[i] = Hidden;
 			}
 
+			rend.materials = mats;
+
 		}
 
-		rend.materials = mats;
+		// rend.materials = mats;
 
 	}
 

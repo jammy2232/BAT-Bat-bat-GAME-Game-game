@@ -38,7 +38,7 @@ public class Bugs : MonoBehaviour {
 		HiddenBugs = ps.startColor.color;
 
 		y0 = transform.position.y;
-		bugbobA = 0.05f;
+		bugbobA = 0.01f;
 		bugbobF = 2.0f;
 
 	}
